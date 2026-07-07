@@ -1,0 +1,42 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Parkmeter Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Monthly totals by location with garage vs meter comparison",
+              "displayName": "Parkmeter Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.parkcost.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Parkmeter Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
